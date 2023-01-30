@@ -1,0 +1,17 @@
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.csproj.AssemblyReference.cache
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.Form1.resources
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.csproj.GenerateResource.cache
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.AssemblyInfoInputs.cache
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.AssemblyInfo.cs
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.csproj.CoreCompileInputs.cache
+D:\Github\Lab004\LAB004\LAB004\bin\Debug\net6.0-windows\LAB004.exe
+D:\Github\Lab004\LAB004\LAB004\bin\Debug\net6.0-windows\LAB004.deps.json
+D:\Github\Lab004\LAB004\LAB004\bin\Debug\net6.0-windows\LAB004.runtimeconfig.json
+D:\Github\Lab004\LAB004\LAB004\bin\Debug\net6.0-windows\LAB004.dll
+D:\Github\Lab004\LAB004\LAB004\bin\Debug\net6.0-windows\LAB004.pdb
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.dll
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\refint\LAB004.dll
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.pdb
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\LAB004.genruntimeconfig.cache
+D:\Github\Lab004\LAB004\LAB004\obj\Debug\net6.0-windows\ref\LAB004.dll
